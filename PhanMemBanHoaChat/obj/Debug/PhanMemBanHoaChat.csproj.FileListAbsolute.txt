@@ -1,0 +1,318 @@
+C:\Users\User\OneDrive\Máy tính\MUABANHOACHAT\PhanMemBanHoaChat\PhanMemBanHoaChat\obj\Debug\PhanMemBanHoaChat.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Máy tính\MUABANHOACHAT\PhanMemBanHoaChat\PhanMemBanHoaChat\obj\Debug\PhanMemBanHoaChat.ManHinhChinh.FrmMain.resources
+C:\Users\User\OneDrive\Máy tính\MUABANHOACHAT\PhanMemBanHoaChat\PhanMemBanHoaChat\obj\Debug\PhanMemBanHoaChat.PhanQuyen.FrmPhanQuyen.resources
+C:\Users\User\OneDrive\Máy tính\MUABANHOACHAT\PhanMemBanHoaChat\PhanMemBanHoaChat\obj\Debug\PhanMemBanHoaChat.PhanQuyen.FrmQuyen.resources
+C:\Users\User\OneDrive\Máy tính\MUABANHOACHAT\PhanMemBanHoaChat\PhanMemBanHoaChat\obj\Debug\PhanMemBanHoaChat.Properties.Resources.resources
+C:\Users\User\OneDrive\Máy tính\MUABANHOACHAT\PhanMemBanHoaChat\PhanMemBanHoaChat\obj\Debug\PhanMemBanHoaChat.TaiKhoan.FrmDangNhap.resources
+C:\Users\User\OneDrive\Máy tính\MUABANHOACHAT\PhanMemBanHoaChat\PhanMemBanHoaChat\obj\Debug\PhanMemBanHoaChat.TaiKhoan.FrmTaoTaiKhoan.resources
+C:\Users\User\OneDrive\Máy tính\MUABANHOACHAT\PhanMemBanHoaChat\PhanMemBanHoaChat\obj\Debug\PhanMemBanHoaChat.csproj.GenerateResource.cache
+C:\Users\User\OneDrive\Máy tính\MUABANHOACHAT\PhanMemBanHoaChat\PhanMemBanHoaChat\obj\Debug\PhanMemBanHoaChat.exe.licenses
+C:\Users\User\OneDrive\Máy tính\MUABANHOACHAT\PhanMemBanHoaChat\PhanMemBanHoaChat\obj\Debug\PhanMemBanHoaChat.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Máy tính\MUABANHOACHAT\PhanMemBanHoaChat\PhanMemBanHoaChat\bin\Debug\PhanMemBanHoaChat.exe.config
+C:\Users\User\OneDrive\Máy tính\MUABANHOACHAT\PhanMemBanHoaChat\PhanMemBanHoaChat\bin\Debug\PhanMemBanHoaChat.exe
+C:\Users\User\OneDrive\Máy tính\MUABANHOACHAT\PhanMemBanHoaChat\PhanMemBanHoaChat\bin\Debug\PhanMemBanHoaChat.pdb
+C:\Users\User\OneDrive\Máy tính\MUABANHOACHAT\PhanMemBanHoaChat\PhanMemBanHoaChat\bin\Debug\BLL_DAL.dll
+C:\Users\User\OneDrive\Máy tính\MUABANHOACHAT\PhanMemBanHoaChat\PhanMemBanHoaChat\bin\Debug\DevExpress.BonusSkins.v21.2.dll
+C:\Users\User\OneDrive\Máy tính\MUABANHOACHAT\PhanMemBanHoaChat\PhanMemBanHoaChat\bin\Debug\DevExpress.Data.Desktop.v21.2.dll
+C:\Users\User\OneDrive\Máy tính\MUABANHOACHAT\PhanMemBanHoaChat\PhanMemBanHoaChat\bin\Debug\DevExpress.Data.v21.2.dll
+C:\Users\User\OneDrive\Máy tính\MUABANHOACHAT\PhanMemBanHoaChat\PhanMemBanHoaChat\bin\Debug\DevExpress.Printing.v21.2.Core.dll
+C:\Users\User\OneDrive\Máy tính\MUABANHOACHAT\PhanMemBanHoaChat\PhanMemBanHoaChat\bin\Debug\DevExpress.Sparkline.v21.2.Core.dll
+C:\Users\User\OneDrive\Máy tính\MUABANHOACHAT\PhanMemBanHoaChat\PhanMemBanHoaChat\bin\Debug\DevExpress.Utils.v21.2.dll
+C:\Users\User\OneDrive\Máy tính\MUABANHOACHAT\PhanMemBanHoaChat\PhanMemBanHoaChat\bin\Debug\DevExpress.XtraBars.v21.2.dll
+C:\Users\User\OneDrive\Máy tính\MUABANHOACHAT\PhanMemBanHoaChat\PhanMemBanHoaChat\bin\Debug\DevExpress.XtraEditors.v21.2.dll
+C:\Users\User\OneDrive\Máy tính\MUABANHOACHAT\PhanMemBanHoaChat\PhanMemBanHoaChat\bin\Debug\DevExpress.Pdf.v21.2.Core.dll
+C:\Users\User\OneDrive\Máy tính\MUABANHOACHAT\PhanMemBanHoaChat\PhanMemBanHoaChat\bin\Debug\DevExpress.Pdf.v21.2.Drawing.dll
+C:\Users\User\OneDrive\Máy tính\MUABANHOACHAT\PhanMemBanHoaChat\PhanMemBanHoaChat\bin\Debug\BLL_DAL.pdb
+C:\Users\User\OneDrive\Máy tính\MUABANHOACHAT\PhanMemBanHoaChat\PhanMemBanHoaChat\bin\Debug\BLL_DAL.dll.config
+C:\Users\User\OneDrive\Máy tính\MUABANHOACHAT\PhanMemBanHoaChat\PhanMemBanHoaChat\bin\Debug\DevExpress.Data.Desktop.v21.2.xml
+C:\Users\User\OneDrive\Máy tính\MUABANHOACHAT\PhanMemBanHoaChat\PhanMemBanHoaChat\bin\Debug\DevExpress.Data.v21.2.xml
+C:\Users\User\OneDrive\Máy tính\MUABANHOACHAT\PhanMemBanHoaChat\PhanMemBanHoaChat\bin\Debug\DevExpress.Printing.v21.2.Core.xml
+C:\Users\User\OneDrive\Máy tính\MUABANHOACHAT\PhanMemBanHoaChat\PhanMemBanHoaChat\bin\Debug\DevExpress.Utils.v21.2.xml
+C:\Users\User\OneDrive\Máy tính\MUABANHOACHAT\PhanMemBanHoaChat\PhanMemBanHoaChat\bin\Debug\DevExpress.XtraBars.v21.2.xml
+C:\Users\User\OneDrive\Máy tính\MUABANHOACHAT\PhanMemBanHoaChat\PhanMemBanHoaChat\bin\Debug\DevExpress.Sparkline.v21.2.Core.xml
+C:\Users\User\OneDrive\Máy tính\MUABANHOACHAT\PhanMemBanHoaChat\PhanMemBanHoaChat\bin\Debug\DevExpress.XtraEditors.v21.2.xml
+C:\Users\User\OneDrive\Máy tính\MUABANHOACHAT\PhanMemBanHoaChat\PhanMemBanHoaChat\bin\Debug\DevExpress.Pdf.v21.2.Core.xml
+C:\Users\User\OneDrive\Máy tính\MUABANHOACHAT\PhanMemBanHoaChat\PhanMemBanHoaChat\bin\Debug\DevExpress.Pdf.v21.2.Drawing.xml
+C:\Users\User\OneDrive\Máy tính\MUABANHOACHAT\PhanMemBanHoaChat\PhanMemBanHoaChat\bin\Debug\de\DevExpress.Data.v21.2.resources.dll
+C:\Users\User\OneDrive\Máy tính\MUABANHOACHAT\PhanMemBanHoaChat\PhanMemBanHoaChat\bin\Debug\es\DevExpress.Data.v21.2.resources.dll
+C:\Users\User\OneDrive\Máy tính\MUABANHOACHAT\PhanMemBanHoaChat\PhanMemBanHoaChat\bin\Debug\ja\DevExpress.Data.v21.2.resources.dll
+C:\Users\User\OneDrive\Máy tính\MUABANHOACHAT\PhanMemBanHoaChat\PhanMemBanHoaChat\bin\Debug\ru\DevExpress.Data.v21.2.resources.dll
+C:\Users\User\OneDrive\Máy tính\MUABANHOACHAT\PhanMemBanHoaChat\PhanMemBanHoaChat\bin\Debug\de\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\User\OneDrive\Máy tính\MUABANHOACHAT\PhanMemBanHoaChat\PhanMemBanHoaChat\bin\Debug\es\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\User\OneDrive\Máy tính\MUABANHOACHAT\PhanMemBanHoaChat\PhanMemBanHoaChat\bin\Debug\ja\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\User\OneDrive\Máy tính\MUABANHOACHAT\PhanMemBanHoaChat\PhanMemBanHoaChat\bin\Debug\ru\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\User\OneDrive\Máy tính\MUABANHOACHAT\PhanMemBanHoaChat\PhanMemBanHoaChat\bin\Debug\de\DevExpress.Utils.v21.2.resources.dll
+C:\Users\User\OneDrive\Máy tính\MUABANHOACHAT\PhanMemBanHoaChat\PhanMemBanHoaChat\bin\Debug\es\DevExpress.Utils.v21.2.resources.dll
+C:\Users\User\OneDrive\Máy tính\MUABANHOACHAT\PhanMemBanHoaChat\PhanMemBanHoaChat\bin\Debug\ja\DevExpress.Utils.v21.2.resources.dll
+C:\Users\User\OneDrive\Máy tính\MUABANHOACHAT\PhanMemBanHoaChat\PhanMemBanHoaChat\bin\Debug\ru\DevExpress.Utils.v21.2.resources.dll
+C:\Users\User\OneDrive\Máy tính\MUABANHOACHAT\PhanMemBanHoaChat\PhanMemBanHoaChat\bin\Debug\de\DevExpress.XtraBars.v21.2.resources.dll
+C:\Users\User\OneDrive\Máy tính\MUABANHOACHAT\PhanMemBanHoaChat\PhanMemBanHoaChat\bin\Debug\es\DevExpress.XtraBars.v21.2.resources.dll
+C:\Users\User\OneDrive\Máy tính\MUABANHOACHAT\PhanMemBanHoaChat\PhanMemBanHoaChat\bin\Debug\ja\DevExpress.XtraBars.v21.2.resources.dll
+C:\Users\User\OneDrive\Máy tính\MUABANHOACHAT\PhanMemBanHoaChat\PhanMemBanHoaChat\bin\Debug\ru\DevExpress.XtraBars.v21.2.resources.dll
+C:\Users\User\OneDrive\Máy tính\MUABANHOACHAT\PhanMemBanHoaChat\PhanMemBanHoaChat\bin\Debug\de\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\User\OneDrive\Máy tính\MUABANHOACHAT\PhanMemBanHoaChat\PhanMemBanHoaChat\bin\Debug\es\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\User\OneDrive\Máy tính\MUABANHOACHAT\PhanMemBanHoaChat\PhanMemBanHoaChat\bin\Debug\ja\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\User\OneDrive\Máy tính\MUABANHOACHAT\PhanMemBanHoaChat\PhanMemBanHoaChat\bin\Debug\ru\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\User\OneDrive\Máy tính\MUABANHOACHAT\PhanMemBanHoaChat\PhanMemBanHoaChat\bin\Debug\de\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\User\OneDrive\Máy tính\MUABANHOACHAT\PhanMemBanHoaChat\PhanMemBanHoaChat\bin\Debug\es\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\User\OneDrive\Máy tính\MUABANHOACHAT\PhanMemBanHoaChat\PhanMemBanHoaChat\bin\Debug\ja\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\User\OneDrive\Máy tính\MUABANHOACHAT\PhanMemBanHoaChat\PhanMemBanHoaChat\bin\Debug\ru\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\User\OneDrive\Máy tính\MUABANHOACHAT\PhanMemBanHoaChat\PhanMemBanHoaChat\bin\Debug\de\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\User\OneDrive\Máy tính\MUABANHOACHAT\PhanMemBanHoaChat\PhanMemBanHoaChat\bin\Debug\es\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\User\OneDrive\Máy tính\MUABANHOACHAT\PhanMemBanHoaChat\PhanMemBanHoaChat\bin\Debug\ja\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\User\OneDrive\Máy tính\MUABANHOACHAT\PhanMemBanHoaChat\PhanMemBanHoaChat\bin\Debug\ru\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\User\OneDrive\Máy tính\MUABANHOACHAT\PhanMemBanHoaChat\PhanMemBanHoaChat\obj\Debug\PhanMemBanHoaChat.csproj.CopyComplete
+C:\Users\User\OneDrive\Máy tính\MUABANHOACHAT\PhanMemBanHoaChat\PhanMemBanHoaChat\obj\Debug\PhanMemBanHoaChat.exe
+C:\Users\User\OneDrive\Máy tính\MUABANHOACHAT\PhanMemBanHoaChat\PhanMemBanHoaChat\obj\Debug\PhanMemBanHoaChat.pdb
+C:\Users\User\OneDrive\Máy tính\MUABANHOACHAT\PhanMemBanHoaChat\PhanMemBanHoaChat\obj\Debug\PhanMemBanHoaChat.KhachHang.FrmDSKhachHang.resources
+C:\Users\User\OneDrive\Máy tính\MUABANHOACHAT\PhanMemBanHoaChat\PhanMemBanHoaChat\obj\Debug\PhanMemBanHoaChat.KhachHang.FrmTaoKhachHang.resources
+C:\Users\User\OneDrive\Máy tính\MUABANHOACHAT\PhanMemBanHoaChat\PhanMemBanHoaChat\obj\Debug\PhanMemBanHoaChat.NhanVien.FrmDSNhanVien.resources
+C:\Users\User\OneDrive\Máy tính\MUABANHOACHAT\PhanMemBanHoaChat\PhanMemBanHoaChat\obj\Debug\PhanMemBanHoaChat.NhanVien.FrmTaoNhanVien.resources
+C:\Users\User\OneDrive\Máy tính\MUABANHOACHAT\PhanMemBanHoaChat\PhanMemBanHoaChat\obj\Debug\PhanMemBanHoaChat.DoiTac.FrmDSNhaCC.resources
+C:\Users\User\OneDrive\Máy tính\MUABANHOACHAT\PhanMemBanHoaChat\PhanMemBanHoaChat\obj\Debug\PhanMemBanHoaChat.DoiTac.FrmTaoNhaCungCap.resources
+C:\Users\User\OneDrive\Máy tính\MUABANHOACHAT\PhanMemBanHoaChat\PhanMemBanHoaChat\obj\Debug\PhanMemBanHoaChat.DoiTac.FrmDSNhaSanXuat.resources
+C:\Users\User\OneDrive\Máy tính\MUABANHOACHAT\PhanMemBanHoaChat\PhanMemBanHoaChat\obj\Debug\PhanMemBanHoaChat.DoiTac.FrmTaoNhaSanXuat.resources
+C:\Users\User\OneDrive\Máy tính\MUABANHOACHAT\PhanMemBanHoaChat\PhanMemBanHoaChat\obj\Debug\PhanMemBanHoaChat.Kho.FrmDSHangHoa.resources
+C:\Users\User\OneDrive\Máy tính\MUABANHOACHAT\PhanMemBanHoaChat\PhanMemBanHoaChat\obj\Debug\PhanMemBanHoaChat.Kho.FrmTaoHangHoa.resources
+C:\Users\User\OneDrive\Máy tính\MUABANHOACHAT\PhanMemBanHoaChat\PhanMemBanHoaChat\obj\Debug\PhanMemBanHoaChat.Kho.FrmDSPhieuNhap.resources
+C:\Users\User\OneDrive\Máy tính\MUABANHOACHAT\PhanMemBanHoaChat\PhanMemBanHoaChat\obj\Debug\PhanMemBanHoaChat.Kho.FrmTaoMoiPhieuNhap.resources
+C:\Users\User\OneDrive\Máy tính\MUABANHOACHAT\PhanMemBanHoaChat\PhanMemBanHoaChat\obj\Debug\PhanMemBanHoaChat.Phieu.FrmDSPhieuXuatHang.resources
+C:\Users\User\OneDrive\Máy tính\MUABANHOACHAT\PhanMemBanHoaChat\PhanMemBanHoaChat\obj\Debug\PhanMemBanHoaChat.BaoGia.FrmDSBaoGia.resources
+C:\Users\User\OneDrive\Máy tính\MUABANHOACHAT\PhanMemBanHoaChat\PhanMemBanHoaChat\obj\Debug\PhanMemBanHoaChat.BaoGia.FrmTaoBaoGia.resources
+C:\Users\User\OneDrive\Máy tính\MUABANHOACHAT\PhanMemBanHoaChat\PhanMemBanHoaChat\bin\Debug\Syncfusion.DocIO.Base.dll
+C:\Users\User\OneDrive\Máy tính\MUABANHOACHAT\PhanMemBanHoaChat\PhanMemBanHoaChat\bin\Debug\Syncfusion.XlsIO.Base.dll
+C:\Users\User\OneDrive\Máy tính\MUABANHOACHAT\PhanMemBanHoaChat\PhanMemBanHoaChat\bin\Debug\Syncfusion.Compression.Base.dll
+C:\Users\User\OneDrive\Máy tính\MUABANHOACHAT\PhanMemBanHoaChat\PhanMemBanHoaChat\bin\Debug\Syncfusion.OfficeChart.Base.dll
+C:\Users\User\OneDrive\Máy tính\MUABANHOACHAT\PhanMemBanHoaChat\PhanMemBanHoaChat\bin\Debug\Syncfusion.DocIO.Base.xml
+C:\Users\User\OneDrive\Máy tính\MUABANHOACHAT\PhanMemBanHoaChat\PhanMemBanHoaChat\bin\Debug\Syncfusion.XlsIO.Base.xml
+C:\Users\User\OneDrive\Máy tính\MUABANHOACHAT\PhanMemBanHoaChat\PhanMemBanHoaChat\bin\Debug\Syncfusion.Compression.Base.xml
+C:\Users\User\OneDrive\Máy tính\MUABANHOACHAT\PhanMemBanHoaChat\PhanMemBanHoaChat\bin\Debug\Syncfusion.OfficeChart.Base.xml
+C:\Users\User\OneDrive\Máy tính\MUABANHOACHAT\PhanMemBanHoaChat\PhanMemBanHoaChat\obj\Debug\PhanMemBanHoaChat.Phieu.FrmDSPhieuTT.resources
+C:\Users\User\OneDrive\Máy tính\MUABANHOACHAT\PhanMemBanHoaChat\PhanMemBanHoaChat\obj\Debug\PhanMemBanHoaChat.Phieu.FrmTaoMoiPhieuTT.resources
+C:\Users\User\OneDrive\Máy tính\MUABANHOACHAT\PhanMemBanHoaChat\PhanMemBanHoaChat\obj\Debug\PhanMemBanHoaChat.HoaDon.FrmCongNo.resources
+C:\Users\User\OneDrive\Máy tính\MUABANHOACHAT\PhanMemBanHoaChat\PhanMemBanHoaChat\obj\Debug\PhanMemBanHoaChat.HoaDon.FrmThongKeChiTiet.resources
+C:\Users\User\OneDrive\Máy tính\MUABANHOACHAT\PhanMemBanHoaChat\PhanMemBanHoaChat\obj\Debug\PhanMemBanHoaChat.HoaDon.FrmTThongKe.resources
+C:\Users\User\OneDrive\Máy tính\MUABANHOACHAT\PhanMemBanHoaChat\PhanMemBanHoaChat\obj\Debug\PhanMemBanHoaChat.Phieu.FrmTaoPhieuXuatHang.resources
+C:\Users\User\OneDrive\Máy tính\MUABANHOACHAT\PhanMemBanHoaChat\PhanMemBanHoaChat\obj\Debug\PhanMemBanHoaChat.DatHang.FrmDSDatHang.resources
+C:\Users\User\OneDrive\Máy tính\MUABANHOACHAT\PhanMemBanHoaChat\PhanMemBanHoaChat\obj\Debug\PhanMemBanHoaChat.HoaDon.frmDSHoaDon.resources
+C:\Users\User\OneDrive\Máy tính\MUABANHOACHAT\PhanMemBanHoaChat\PhanMemBanHoaChat\obj\Debug\PhanMemBanHoaChat.HoaDon.FrmTaoMoiHoaDon.resources
+C:\Users\User\OneDrive\Máy tính\MUABANHOACHAT\PhanMemBanHoaChat\PhanMemBanHoaChat\obj\Debug\PhanMemBanHoaChat.DatHang.FrmDatHang.resources
+C:\Users\User\OneDrive\Máy tính\MUABANHOACHAT\PhanMemBanHoaChat\PhanMemBanHoaChat\obj\Debug\PhanMemBanHoaChat.Phieu.FrmDSPhieuNhanHang.resources
+C:\Users\User\OneDrive\Máy tính\MUABANHOACHAT\PhanMemBanHoaChat\PhanMemBanHoaChat\obj\Debug\PhanMemBanHoaChat.Phieu.FrmTaoPhieuNhanHang.resources
+C:\Users\User\OneDrive\Máy tính\MUABANHOACHAT\PhanMemBanHoaChat\PhanMemBanHoaChat\obj\Debug\PhanMemBanHoaChat.NhapKho.FrmDSPhieuNhapKho.resources
+C:\Users\User\OneDrive\Máy tính\MUABANHOACHAT\PhanMemBanHoaChat\PhanMemBanHoaChat\obj\Debug\PhanMemBanHoaChat.NhapKho.FrmTaoPhieuNhapKho.resources
+C:\Users\User\OneDrive\Máy tính\MUABANHOACHAT\PhanMemBanHoaChat\PhanMemBanHoaChat\obj\Debug\PhanMemBanHoaChat.XuatKho.FrmDSPhieuXuatKho.resources
+C:\Users\User\OneDrive\Máy tính\MUABANHOACHAT\PhanMemBanHoaChat\PhanMemBanHoaChat\obj\Debug\PhanMemBanHoaChat.XuatKho.FrmTaoPhieuXuatKho.resources
+C:\Users\User\OneDrive\Máy tính\MUABANHOACHAT\PhanMemBanHoaChat\PhanMemBanHoaChat\obj\Debug\PhanMemBanHoaChat.BaoCao.FrmDoanhThuTheoSP.resources
+C:\Users\User\OneDrive\Máy tính\Setup_PhanMemMuaBanHoaChat\PhanMemBanHoaChat\PhanMemBanHoaChat\bin\Debug\PhanMemBanHoaChat.exe.config
+C:\Users\User\OneDrive\Máy tính\Setup_PhanMemMuaBanHoaChat\PhanMemBanHoaChat\PhanMemBanHoaChat\bin\Debug\PhanMemBanHoaChat.exe
+C:\Users\User\OneDrive\Máy tính\Setup_PhanMemMuaBanHoaChat\PhanMemBanHoaChat\PhanMemBanHoaChat\bin\Debug\PhanMemBanHoaChat.pdb
+C:\Users\User\OneDrive\Máy tính\Setup_PhanMemMuaBanHoaChat\PhanMemBanHoaChat\PhanMemBanHoaChat\bin\Debug\BLL_DAL.dll
+C:\Users\User\OneDrive\Máy tính\Setup_PhanMemMuaBanHoaChat\PhanMemBanHoaChat\PhanMemBanHoaChat\bin\Debug\DevExpress.BonusSkins.v21.2.dll
+C:\Users\User\OneDrive\Máy tính\Setup_PhanMemMuaBanHoaChat\PhanMemBanHoaChat\PhanMemBanHoaChat\bin\Debug\DevExpress.Data.Desktop.v21.2.dll
+C:\Users\User\OneDrive\Máy tính\Setup_PhanMemMuaBanHoaChat\PhanMemBanHoaChat\PhanMemBanHoaChat\bin\Debug\DevExpress.Data.v21.2.dll
+C:\Users\User\OneDrive\Máy tính\Setup_PhanMemMuaBanHoaChat\PhanMemBanHoaChat\PhanMemBanHoaChat\bin\Debug\DevExpress.Printing.v21.2.Core.dll
+C:\Users\User\OneDrive\Máy tính\Setup_PhanMemMuaBanHoaChat\PhanMemBanHoaChat\PhanMemBanHoaChat\bin\Debug\DevExpress.Sparkline.v21.2.Core.dll
+C:\Users\User\OneDrive\Máy tính\Setup_PhanMemMuaBanHoaChat\PhanMemBanHoaChat\PhanMemBanHoaChat\bin\Debug\DevExpress.Utils.v21.2.dll
+C:\Users\User\OneDrive\Máy tính\Setup_PhanMemMuaBanHoaChat\PhanMemBanHoaChat\PhanMemBanHoaChat\bin\Debug\DevExpress.XtraBars.v21.2.dll
+C:\Users\User\OneDrive\Máy tính\Setup_PhanMemMuaBanHoaChat\PhanMemBanHoaChat\PhanMemBanHoaChat\bin\Debug\DevExpress.XtraEditors.v21.2.dll
+C:\Users\User\OneDrive\Máy tính\Setup_PhanMemMuaBanHoaChat\PhanMemBanHoaChat\PhanMemBanHoaChat\bin\Debug\Syncfusion.DocIO.Base.dll
+C:\Users\User\OneDrive\Máy tính\Setup_PhanMemMuaBanHoaChat\PhanMemBanHoaChat\PhanMemBanHoaChat\bin\Debug\Syncfusion.XlsIO.Base.dll
+C:\Users\User\OneDrive\Máy tính\Setup_PhanMemMuaBanHoaChat\PhanMemBanHoaChat\PhanMemBanHoaChat\bin\Debug\DevExpress.Pdf.v21.2.Core.dll
+C:\Users\User\OneDrive\Máy tính\Setup_PhanMemMuaBanHoaChat\PhanMemBanHoaChat\PhanMemBanHoaChat\bin\Debug\DevExpress.Pdf.v21.2.Drawing.dll
+C:\Users\User\OneDrive\Máy tính\Setup_PhanMemMuaBanHoaChat\PhanMemBanHoaChat\PhanMemBanHoaChat\bin\Debug\Syncfusion.Compression.Base.dll
+C:\Users\User\OneDrive\Máy tính\Setup_PhanMemMuaBanHoaChat\PhanMemBanHoaChat\PhanMemBanHoaChat\bin\Debug\Syncfusion.OfficeChart.Base.dll
+C:\Users\User\OneDrive\Máy tính\Setup_PhanMemMuaBanHoaChat\PhanMemBanHoaChat\PhanMemBanHoaChat\bin\Debug\BLL_DAL.pdb
+C:\Users\User\OneDrive\Máy tính\Setup_PhanMemMuaBanHoaChat\PhanMemBanHoaChat\PhanMemBanHoaChat\bin\Debug\BLL_DAL.dll.config
+C:\Users\User\OneDrive\Máy tính\Setup_PhanMemMuaBanHoaChat\PhanMemBanHoaChat\PhanMemBanHoaChat\bin\Debug\DevExpress.Data.Desktop.v21.2.xml
+C:\Users\User\OneDrive\Máy tính\Setup_PhanMemMuaBanHoaChat\PhanMemBanHoaChat\PhanMemBanHoaChat\bin\Debug\DevExpress.Data.v21.2.xml
+C:\Users\User\OneDrive\Máy tính\Setup_PhanMemMuaBanHoaChat\PhanMemBanHoaChat\PhanMemBanHoaChat\bin\Debug\DevExpress.Printing.v21.2.Core.xml
+C:\Users\User\OneDrive\Máy tính\Setup_PhanMemMuaBanHoaChat\PhanMemBanHoaChat\PhanMemBanHoaChat\bin\Debug\DevExpress.Utils.v21.2.xml
+C:\Users\User\OneDrive\Máy tính\Setup_PhanMemMuaBanHoaChat\PhanMemBanHoaChat\PhanMemBanHoaChat\bin\Debug\DevExpress.XtraBars.v21.2.xml
+C:\Users\User\OneDrive\Máy tính\Setup_PhanMemMuaBanHoaChat\PhanMemBanHoaChat\PhanMemBanHoaChat\bin\Debug\DevExpress.Sparkline.v21.2.Core.xml
+C:\Users\User\OneDrive\Máy tính\Setup_PhanMemMuaBanHoaChat\PhanMemBanHoaChat\PhanMemBanHoaChat\bin\Debug\DevExpress.XtraEditors.v21.2.xml
+C:\Users\User\OneDrive\Máy tính\Setup_PhanMemMuaBanHoaChat\PhanMemBanHoaChat\PhanMemBanHoaChat\bin\Debug\Syncfusion.DocIO.Base.xml
+C:\Users\User\OneDrive\Máy tính\Setup_PhanMemMuaBanHoaChat\PhanMemBanHoaChat\PhanMemBanHoaChat\bin\Debug\Syncfusion.XlsIO.Base.xml
+C:\Users\User\OneDrive\Máy tính\Setup_PhanMemMuaBanHoaChat\PhanMemBanHoaChat\PhanMemBanHoaChat\bin\Debug\DevExpress.Pdf.v21.2.Core.xml
+C:\Users\User\OneDrive\Máy tính\Setup_PhanMemMuaBanHoaChat\PhanMemBanHoaChat\PhanMemBanHoaChat\bin\Debug\DevExpress.Pdf.v21.2.Drawing.xml
+C:\Users\User\OneDrive\Máy tính\Setup_PhanMemMuaBanHoaChat\PhanMemBanHoaChat\PhanMemBanHoaChat\bin\Debug\Syncfusion.Compression.Base.xml
+C:\Users\User\OneDrive\Máy tính\Setup_PhanMemMuaBanHoaChat\PhanMemBanHoaChat\PhanMemBanHoaChat\bin\Debug\Syncfusion.OfficeChart.Base.xml
+C:\Users\User\OneDrive\Máy tính\Setup_PhanMemMuaBanHoaChat\PhanMemBanHoaChat\PhanMemBanHoaChat\bin\Debug\de\DevExpress.Data.v21.2.resources.dll
+C:\Users\User\OneDrive\Máy tính\Setup_PhanMemMuaBanHoaChat\PhanMemBanHoaChat\PhanMemBanHoaChat\bin\Debug\es\DevExpress.Data.v21.2.resources.dll
+C:\Users\User\OneDrive\Máy tính\Setup_PhanMemMuaBanHoaChat\PhanMemBanHoaChat\PhanMemBanHoaChat\bin\Debug\ja\DevExpress.Data.v21.2.resources.dll
+C:\Users\User\OneDrive\Máy tính\Setup_PhanMemMuaBanHoaChat\PhanMemBanHoaChat\PhanMemBanHoaChat\bin\Debug\ru\DevExpress.Data.v21.2.resources.dll
+C:\Users\User\OneDrive\Máy tính\Setup_PhanMemMuaBanHoaChat\PhanMemBanHoaChat\PhanMemBanHoaChat\bin\Debug\de\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\User\OneDrive\Máy tính\Setup_PhanMemMuaBanHoaChat\PhanMemBanHoaChat\PhanMemBanHoaChat\bin\Debug\es\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\User\OneDrive\Máy tính\Setup_PhanMemMuaBanHoaChat\PhanMemBanHoaChat\PhanMemBanHoaChat\bin\Debug\ja\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\User\OneDrive\Máy tính\Setup_PhanMemMuaBanHoaChat\PhanMemBanHoaChat\PhanMemBanHoaChat\bin\Debug\ru\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\User\OneDrive\Máy tính\Setup_PhanMemMuaBanHoaChat\PhanMemBanHoaChat\PhanMemBanHoaChat\bin\Debug\de\DevExpress.Utils.v21.2.resources.dll
+C:\Users\User\OneDrive\Máy tính\Setup_PhanMemMuaBanHoaChat\PhanMemBanHoaChat\PhanMemBanHoaChat\bin\Debug\es\DevExpress.Utils.v21.2.resources.dll
+C:\Users\User\OneDrive\Máy tính\Setup_PhanMemMuaBanHoaChat\PhanMemBanHoaChat\PhanMemBanHoaChat\bin\Debug\ja\DevExpress.Utils.v21.2.resources.dll
+C:\Users\User\OneDrive\Máy tính\Setup_PhanMemMuaBanHoaChat\PhanMemBanHoaChat\PhanMemBanHoaChat\bin\Debug\ru\DevExpress.Utils.v21.2.resources.dll
+C:\Users\User\OneDrive\Máy tính\Setup_PhanMemMuaBanHoaChat\PhanMemBanHoaChat\PhanMemBanHoaChat\bin\Debug\de\DevExpress.XtraBars.v21.2.resources.dll
+C:\Users\User\OneDrive\Máy tính\Setup_PhanMemMuaBanHoaChat\PhanMemBanHoaChat\PhanMemBanHoaChat\bin\Debug\es\DevExpress.XtraBars.v21.2.resources.dll
+C:\Users\User\OneDrive\Máy tính\Setup_PhanMemMuaBanHoaChat\PhanMemBanHoaChat\PhanMemBanHoaChat\bin\Debug\ja\DevExpress.XtraBars.v21.2.resources.dll
+C:\Users\User\OneDrive\Máy tính\Setup_PhanMemMuaBanHoaChat\PhanMemBanHoaChat\PhanMemBanHoaChat\bin\Debug\ru\DevExpress.XtraBars.v21.2.resources.dll
+C:\Users\User\OneDrive\Máy tính\Setup_PhanMemMuaBanHoaChat\PhanMemBanHoaChat\PhanMemBanHoaChat\bin\Debug\de\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\User\OneDrive\Máy tính\Setup_PhanMemMuaBanHoaChat\PhanMemBanHoaChat\PhanMemBanHoaChat\bin\Debug\es\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\User\OneDrive\Máy tính\Setup_PhanMemMuaBanHoaChat\PhanMemBanHoaChat\PhanMemBanHoaChat\bin\Debug\ja\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\User\OneDrive\Máy tính\Setup_PhanMemMuaBanHoaChat\PhanMemBanHoaChat\PhanMemBanHoaChat\bin\Debug\ru\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\User\OneDrive\Máy tính\Setup_PhanMemMuaBanHoaChat\PhanMemBanHoaChat\PhanMemBanHoaChat\bin\Debug\de\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\User\OneDrive\Máy tính\Setup_PhanMemMuaBanHoaChat\PhanMemBanHoaChat\PhanMemBanHoaChat\bin\Debug\es\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\User\OneDrive\Máy tính\Setup_PhanMemMuaBanHoaChat\PhanMemBanHoaChat\PhanMemBanHoaChat\bin\Debug\ja\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\User\OneDrive\Máy tính\Setup_PhanMemMuaBanHoaChat\PhanMemBanHoaChat\PhanMemBanHoaChat\bin\Debug\ru\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\User\OneDrive\Máy tính\Setup_PhanMemMuaBanHoaChat\PhanMemBanHoaChat\PhanMemBanHoaChat\bin\Debug\de\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\User\OneDrive\Máy tính\Setup_PhanMemMuaBanHoaChat\PhanMemBanHoaChat\PhanMemBanHoaChat\bin\Debug\es\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\User\OneDrive\Máy tính\Setup_PhanMemMuaBanHoaChat\PhanMemBanHoaChat\PhanMemBanHoaChat\bin\Debug\ja\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\User\OneDrive\Máy tính\Setup_PhanMemMuaBanHoaChat\PhanMemBanHoaChat\PhanMemBanHoaChat\bin\Debug\ru\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\User\OneDrive\Máy tính\Setup_PhanMemMuaBanHoaChat\PhanMemBanHoaChat\PhanMemBanHoaChat\obj\Debug\PhanMemBanHoaChat.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Máy tính\Setup_PhanMemMuaBanHoaChat\PhanMemBanHoaChat\PhanMemBanHoaChat\obj\Debug\PhanMemBanHoaChat.BaoCao.FrmDoanhThuTheoSP.resources
+C:\Users\User\OneDrive\Máy tính\Setup_PhanMemMuaBanHoaChat\PhanMemBanHoaChat\PhanMemBanHoaChat\obj\Debug\PhanMemBanHoaChat.BaoGia.FrmDSBaoGia.resources
+C:\Users\User\OneDrive\Máy tính\Setup_PhanMemMuaBanHoaChat\PhanMemBanHoaChat\PhanMemBanHoaChat\obj\Debug\PhanMemBanHoaChat.BaoGia.FrmTaoBaoGia.resources
+C:\Users\User\OneDrive\Máy tính\Setup_PhanMemMuaBanHoaChat\PhanMemBanHoaChat\PhanMemBanHoaChat\obj\Debug\PhanMemBanHoaChat.DatHang.FrmDatHang.resources
+C:\Users\User\OneDrive\Máy tính\Setup_PhanMemMuaBanHoaChat\PhanMemBanHoaChat\PhanMemBanHoaChat\obj\Debug\PhanMemBanHoaChat.DatHang.FrmDSDatHang.resources
+C:\Users\User\OneDrive\Máy tính\Setup_PhanMemMuaBanHoaChat\PhanMemBanHoaChat\PhanMemBanHoaChat\obj\Debug\PhanMemBanHoaChat.DoiTac.FrmDSNhaCC.resources
+C:\Users\User\OneDrive\Máy tính\Setup_PhanMemMuaBanHoaChat\PhanMemBanHoaChat\PhanMemBanHoaChat\obj\Debug\PhanMemBanHoaChat.DoiTac.FrmDSNhaSanXuat.resources
+C:\Users\User\OneDrive\Máy tính\Setup_PhanMemMuaBanHoaChat\PhanMemBanHoaChat\PhanMemBanHoaChat\obj\Debug\PhanMemBanHoaChat.DoiTac.FrmTaoNhaCungCap.resources
+C:\Users\User\OneDrive\Máy tính\Setup_PhanMemMuaBanHoaChat\PhanMemBanHoaChat\PhanMemBanHoaChat\obj\Debug\PhanMemBanHoaChat.DoiTac.FrmTaoNhaSanXuat.resources
+C:\Users\User\OneDrive\Máy tính\Setup_PhanMemMuaBanHoaChat\PhanMemBanHoaChat\PhanMemBanHoaChat\obj\Debug\PhanMemBanHoaChat.HoaDon.FrmCongNo.resources
+C:\Users\User\OneDrive\Máy tính\Setup_PhanMemMuaBanHoaChat\PhanMemBanHoaChat\PhanMemBanHoaChat\obj\Debug\PhanMemBanHoaChat.HoaDon.frmDSHoaDon.resources
+C:\Users\User\OneDrive\Máy tính\Setup_PhanMemMuaBanHoaChat\PhanMemBanHoaChat\PhanMemBanHoaChat\obj\Debug\PhanMemBanHoaChat.HoaDon.FrmTaoMoiHoaDon.resources
+C:\Users\User\OneDrive\Máy tính\Setup_PhanMemMuaBanHoaChat\PhanMemBanHoaChat\PhanMemBanHoaChat\obj\Debug\PhanMemBanHoaChat.HoaDon.FrmThongKeChiTiet.resources
+C:\Users\User\OneDrive\Máy tính\Setup_PhanMemMuaBanHoaChat\PhanMemBanHoaChat\PhanMemBanHoaChat\obj\Debug\PhanMemBanHoaChat.HoaDon.FrmTThongKe.resources
+C:\Users\User\OneDrive\Máy tính\Setup_PhanMemMuaBanHoaChat\PhanMemBanHoaChat\PhanMemBanHoaChat\obj\Debug\PhanMemBanHoaChat.KhachHang.FrmDSKhachHang.resources
+C:\Users\User\OneDrive\Máy tính\Setup_PhanMemMuaBanHoaChat\PhanMemBanHoaChat\PhanMemBanHoaChat\obj\Debug\PhanMemBanHoaChat.KhachHang.FrmTaoKhachHang.resources
+C:\Users\User\OneDrive\Máy tính\Setup_PhanMemMuaBanHoaChat\PhanMemBanHoaChat\PhanMemBanHoaChat\obj\Debug\PhanMemBanHoaChat.Kho.FrmDSHangHoa.resources
+C:\Users\User\OneDrive\Máy tính\Setup_PhanMemMuaBanHoaChat\PhanMemBanHoaChat\PhanMemBanHoaChat\obj\Debug\PhanMemBanHoaChat.Kho.FrmDSPhieuNhap.resources
+C:\Users\User\OneDrive\Máy tính\Setup_PhanMemMuaBanHoaChat\PhanMemBanHoaChat\PhanMemBanHoaChat\obj\Debug\PhanMemBanHoaChat.Kho.FrmTaoHangHoa.resources
+C:\Users\User\OneDrive\Máy tính\Setup_PhanMemMuaBanHoaChat\PhanMemBanHoaChat\PhanMemBanHoaChat\obj\Debug\PhanMemBanHoaChat.Kho.FrmTaoMoiPhieuNhap.resources
+C:\Users\User\OneDrive\Máy tính\Setup_PhanMemMuaBanHoaChat\PhanMemBanHoaChat\PhanMemBanHoaChat\obj\Debug\PhanMemBanHoaChat.ManHinhChinh.FrmMain.resources
+C:\Users\User\OneDrive\Máy tính\Setup_PhanMemMuaBanHoaChat\PhanMemBanHoaChat\PhanMemBanHoaChat\obj\Debug\PhanMemBanHoaChat.NhanVien.FrmDSNhanVien.resources
+C:\Users\User\OneDrive\Máy tính\Setup_PhanMemMuaBanHoaChat\PhanMemBanHoaChat\PhanMemBanHoaChat\obj\Debug\PhanMemBanHoaChat.NhanVien.FrmTaoNhanVien.resources
+C:\Users\User\OneDrive\Máy tính\Setup_PhanMemMuaBanHoaChat\PhanMemBanHoaChat\PhanMemBanHoaChat\obj\Debug\PhanMemBanHoaChat.NhapKho.FrmDSPhieuNhapKho.resources
+C:\Users\User\OneDrive\Máy tính\Setup_PhanMemMuaBanHoaChat\PhanMemBanHoaChat\PhanMemBanHoaChat\obj\Debug\PhanMemBanHoaChat.NhapKho.FrmTaoPhieuNhapKho.resources
+C:\Users\User\OneDrive\Máy tính\Setup_PhanMemMuaBanHoaChat\PhanMemBanHoaChat\PhanMemBanHoaChat\obj\Debug\PhanMemBanHoaChat.PhanQuyen.FrmPhanQuyen.resources
+C:\Users\User\OneDrive\Máy tính\Setup_PhanMemMuaBanHoaChat\PhanMemBanHoaChat\PhanMemBanHoaChat\obj\Debug\PhanMemBanHoaChat.PhanQuyen.FrmQuyen.resources
+C:\Users\User\OneDrive\Máy tính\Setup_PhanMemMuaBanHoaChat\PhanMemBanHoaChat\PhanMemBanHoaChat\obj\Debug\PhanMemBanHoaChat.Phieu.FrmDSPhieuNhanHang.resources
+C:\Users\User\OneDrive\Máy tính\Setup_PhanMemMuaBanHoaChat\PhanMemBanHoaChat\PhanMemBanHoaChat\obj\Debug\PhanMemBanHoaChat.Phieu.FrmDSPhieuTT.resources
+C:\Users\User\OneDrive\Máy tính\Setup_PhanMemMuaBanHoaChat\PhanMemBanHoaChat\PhanMemBanHoaChat\obj\Debug\PhanMemBanHoaChat.Phieu.FrmDSPhieuXuatHang.resources
+C:\Users\User\OneDrive\Máy tính\Setup_PhanMemMuaBanHoaChat\PhanMemBanHoaChat\PhanMemBanHoaChat\obj\Debug\PhanMemBanHoaChat.Phieu.FrmTaoMoiPhieuTT.resources
+C:\Users\User\OneDrive\Máy tính\Setup_PhanMemMuaBanHoaChat\PhanMemBanHoaChat\PhanMemBanHoaChat\obj\Debug\PhanMemBanHoaChat.Phieu.FrmTaoPhieuNhanHang.resources
+C:\Users\User\OneDrive\Máy tính\Setup_PhanMemMuaBanHoaChat\PhanMemBanHoaChat\PhanMemBanHoaChat\obj\Debug\PhanMemBanHoaChat.Phieu.FrmTaoPhieuXuatHang.resources
+C:\Users\User\OneDrive\Máy tính\Setup_PhanMemMuaBanHoaChat\PhanMemBanHoaChat\PhanMemBanHoaChat\obj\Debug\PhanMemBanHoaChat.Properties.Resources.resources
+C:\Users\User\OneDrive\Máy tính\Setup_PhanMemMuaBanHoaChat\PhanMemBanHoaChat\PhanMemBanHoaChat\obj\Debug\PhanMemBanHoaChat.TaiKhoan.FrmDangNhap.resources
+C:\Users\User\OneDrive\Máy tính\Setup_PhanMemMuaBanHoaChat\PhanMemBanHoaChat\PhanMemBanHoaChat\obj\Debug\PhanMemBanHoaChat.TaiKhoan.FrmTaoTaiKhoan.resources
+C:\Users\User\OneDrive\Máy tính\Setup_PhanMemMuaBanHoaChat\PhanMemBanHoaChat\PhanMemBanHoaChat\obj\Debug\PhanMemBanHoaChat.XuatKho.FrmDSPhieuXuatKho.resources
+C:\Users\User\OneDrive\Máy tính\Setup_PhanMemMuaBanHoaChat\PhanMemBanHoaChat\PhanMemBanHoaChat\obj\Debug\PhanMemBanHoaChat.XuatKho.FrmTaoPhieuXuatKho.resources
+C:\Users\User\OneDrive\Máy tính\Setup_PhanMemMuaBanHoaChat\PhanMemBanHoaChat\PhanMemBanHoaChat\obj\Debug\PhanMemBanHoaChat.csproj.GenerateResource.cache
+C:\Users\User\OneDrive\Máy tính\Setup_PhanMemMuaBanHoaChat\PhanMemBanHoaChat\PhanMemBanHoaChat\obj\Debug\PhanMemBanHoaChat.exe.licenses
+C:\Users\User\OneDrive\Máy tính\Setup_PhanMemMuaBanHoaChat\PhanMemBanHoaChat\PhanMemBanHoaChat\obj\Debug\PhanMemBanHoaChat.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Máy tính\Setup_PhanMemMuaBanHoaChat\PhanMemBanHoaChat\PhanMemBanHoaChat\obj\Debug\PhanMemBanHoaChat.csproj.CopyComplete
+C:\Users\User\OneDrive\Máy tính\Setup_PhanMemMuaBanHoaChat\PhanMemBanHoaChat\PhanMemBanHoaChat\obj\Debug\PhanMemBanHoaChat.exe
+C:\Users\User\OneDrive\Máy tính\Setup_PhanMemMuaBanHoaChat\PhanMemBanHoaChat\PhanMemBanHoaChat\obj\Debug\PhanMemBanHoaChat.pdb
+D:\QuanTrong\HK1_Nam4\Setup_PhanMemMuaBanHoaChat\PhanMemBanHoaChat\PhanMemBanHoaChat\obj\Debug\PhanMemBanHoaChat.csproj.AssemblyReference.cache
+D:\QuanTrong\HK1_Nam4\Setup_PhanMemMuaBanHoaChat\PhanMemBanHoaChat\PhanMemBanHoaChat\obj\Debug\PhanMemBanHoaChat.BaoCao.FrmDoanhThuTheoSP.resources
+D:\QuanTrong\HK1_Nam4\Setup_PhanMemMuaBanHoaChat\PhanMemBanHoaChat\PhanMemBanHoaChat\obj\Debug\PhanMemBanHoaChat.BaoGia.FrmDSBaoGia.resources
+D:\QuanTrong\HK1_Nam4\Setup_PhanMemMuaBanHoaChat\PhanMemBanHoaChat\PhanMemBanHoaChat\obj\Debug\PhanMemBanHoaChat.BaoGia.FrmTaoBaoGia.resources
+D:\QuanTrong\HK1_Nam4\Setup_PhanMemMuaBanHoaChat\PhanMemBanHoaChat\PhanMemBanHoaChat\obj\Debug\PhanMemBanHoaChat.DatHang.FrmDatHang.resources
+D:\QuanTrong\HK1_Nam4\Setup_PhanMemMuaBanHoaChat\PhanMemBanHoaChat\PhanMemBanHoaChat\obj\Debug\PhanMemBanHoaChat.DatHang.FrmDSDatHang.resources
+D:\QuanTrong\HK1_Nam4\Setup_PhanMemMuaBanHoaChat\PhanMemBanHoaChat\PhanMemBanHoaChat\obj\Debug\PhanMemBanHoaChat.DoiTac.FrmDSNhaCC.resources
+D:\QuanTrong\HK1_Nam4\Setup_PhanMemMuaBanHoaChat\PhanMemBanHoaChat\PhanMemBanHoaChat\obj\Debug\PhanMemBanHoaChat.DoiTac.FrmDSNhaSanXuat.resources
+D:\QuanTrong\HK1_Nam4\Setup_PhanMemMuaBanHoaChat\PhanMemBanHoaChat\PhanMemBanHoaChat\obj\Debug\PhanMemBanHoaChat.DoiTac.FrmTaoNhaCungCap.resources
+D:\QuanTrong\HK1_Nam4\Setup_PhanMemMuaBanHoaChat\PhanMemBanHoaChat\PhanMemBanHoaChat\obj\Debug\PhanMemBanHoaChat.DoiTac.FrmTaoNhaSanXuat.resources
+D:\QuanTrong\HK1_Nam4\Setup_PhanMemMuaBanHoaChat\PhanMemBanHoaChat\PhanMemBanHoaChat\obj\Debug\PhanMemBanHoaChat.HoaDon.FrmCongNo.resources
+D:\QuanTrong\HK1_Nam4\Setup_PhanMemMuaBanHoaChat\PhanMemBanHoaChat\PhanMemBanHoaChat\obj\Debug\PhanMemBanHoaChat.HoaDon.frmDSHoaDon.resources
+D:\QuanTrong\HK1_Nam4\Setup_PhanMemMuaBanHoaChat\PhanMemBanHoaChat\PhanMemBanHoaChat\obj\Debug\PhanMemBanHoaChat.HoaDon.FrmTaoMoiHoaDon.resources
+D:\QuanTrong\HK1_Nam4\Setup_PhanMemMuaBanHoaChat\PhanMemBanHoaChat\PhanMemBanHoaChat\obj\Debug\PhanMemBanHoaChat.HoaDon.FrmThongKeChiTiet.resources
+D:\QuanTrong\HK1_Nam4\Setup_PhanMemMuaBanHoaChat\PhanMemBanHoaChat\PhanMemBanHoaChat\obj\Debug\PhanMemBanHoaChat.HoaDon.FrmTThongKe.resources
+D:\QuanTrong\HK1_Nam4\Setup_PhanMemMuaBanHoaChat\PhanMemBanHoaChat\PhanMemBanHoaChat\obj\Debug\PhanMemBanHoaChat.KhachHang.FrmDSKhachHang.resources
+D:\QuanTrong\HK1_Nam4\Setup_PhanMemMuaBanHoaChat\PhanMemBanHoaChat\PhanMemBanHoaChat\obj\Debug\PhanMemBanHoaChat.KhachHang.FrmTaoKhachHang.resources
+D:\QuanTrong\HK1_Nam4\Setup_PhanMemMuaBanHoaChat\PhanMemBanHoaChat\PhanMemBanHoaChat\obj\Debug\PhanMemBanHoaChat.Kho.FrmDSHangHoa.resources
+D:\QuanTrong\HK1_Nam4\Setup_PhanMemMuaBanHoaChat\PhanMemBanHoaChat\PhanMemBanHoaChat\obj\Debug\PhanMemBanHoaChat.Kho.FrmDSPhieuNhap.resources
+D:\QuanTrong\HK1_Nam4\Setup_PhanMemMuaBanHoaChat\PhanMemBanHoaChat\PhanMemBanHoaChat\obj\Debug\PhanMemBanHoaChat.Kho.FrmTaoHangHoa.resources
+D:\QuanTrong\HK1_Nam4\Setup_PhanMemMuaBanHoaChat\PhanMemBanHoaChat\PhanMemBanHoaChat\obj\Debug\PhanMemBanHoaChat.Kho.FrmTaoMoiPhieuNhap.resources
+D:\QuanTrong\HK1_Nam4\Setup_PhanMemMuaBanHoaChat\PhanMemBanHoaChat\PhanMemBanHoaChat\obj\Debug\PhanMemBanHoaChat.ManHinhChinh.FrmMain.resources
+D:\QuanTrong\HK1_Nam4\Setup_PhanMemMuaBanHoaChat\PhanMemBanHoaChat\PhanMemBanHoaChat\obj\Debug\PhanMemBanHoaChat.NhanVien.FrmDSNhanVien.resources
+D:\QuanTrong\HK1_Nam4\Setup_PhanMemMuaBanHoaChat\PhanMemBanHoaChat\PhanMemBanHoaChat\obj\Debug\PhanMemBanHoaChat.NhanVien.FrmTaoNhanVien.resources
+D:\QuanTrong\HK1_Nam4\Setup_PhanMemMuaBanHoaChat\PhanMemBanHoaChat\PhanMemBanHoaChat\obj\Debug\PhanMemBanHoaChat.NhapKho.FrmDSPhieuNhapKho.resources
+D:\QuanTrong\HK1_Nam4\Setup_PhanMemMuaBanHoaChat\PhanMemBanHoaChat\PhanMemBanHoaChat\obj\Debug\PhanMemBanHoaChat.NhapKho.FrmTaoPhieuNhapKho.resources
+D:\QuanTrong\HK1_Nam4\Setup_PhanMemMuaBanHoaChat\PhanMemBanHoaChat\PhanMemBanHoaChat\obj\Debug\PhanMemBanHoaChat.PhanQuyen.FrmPhanQuyen.resources
+D:\QuanTrong\HK1_Nam4\Setup_PhanMemMuaBanHoaChat\PhanMemBanHoaChat\PhanMemBanHoaChat\obj\Debug\PhanMemBanHoaChat.PhanQuyen.FrmQuyen.resources
+D:\QuanTrong\HK1_Nam4\Setup_PhanMemMuaBanHoaChat\PhanMemBanHoaChat\PhanMemBanHoaChat\obj\Debug\PhanMemBanHoaChat.Phieu.FrmDSPhieuNhanHang.resources
+D:\QuanTrong\HK1_Nam4\Setup_PhanMemMuaBanHoaChat\PhanMemBanHoaChat\PhanMemBanHoaChat\obj\Debug\PhanMemBanHoaChat.Phieu.FrmDSPhieuTT.resources
+D:\QuanTrong\HK1_Nam4\Setup_PhanMemMuaBanHoaChat\PhanMemBanHoaChat\PhanMemBanHoaChat\obj\Debug\PhanMemBanHoaChat.Phieu.FrmDSPhieuXuatHang.resources
+D:\QuanTrong\HK1_Nam4\Setup_PhanMemMuaBanHoaChat\PhanMemBanHoaChat\PhanMemBanHoaChat\obj\Debug\PhanMemBanHoaChat.Phieu.FrmTaoMoiPhieuTT.resources
+D:\QuanTrong\HK1_Nam4\Setup_PhanMemMuaBanHoaChat\PhanMemBanHoaChat\PhanMemBanHoaChat\obj\Debug\PhanMemBanHoaChat.Phieu.FrmTaoPhieuNhanHang.resources
+D:\QuanTrong\HK1_Nam4\Setup_PhanMemMuaBanHoaChat\PhanMemBanHoaChat\PhanMemBanHoaChat\obj\Debug\PhanMemBanHoaChat.Phieu.FrmTaoPhieuXuatHang.resources
+D:\QuanTrong\HK1_Nam4\Setup_PhanMemMuaBanHoaChat\PhanMemBanHoaChat\PhanMemBanHoaChat\obj\Debug\PhanMemBanHoaChat.Properties.Resources.resources
+D:\QuanTrong\HK1_Nam4\Setup_PhanMemMuaBanHoaChat\PhanMemBanHoaChat\PhanMemBanHoaChat\obj\Debug\PhanMemBanHoaChat.TaiKhoan.FrmDangNhap.resources
+D:\QuanTrong\HK1_Nam4\Setup_PhanMemMuaBanHoaChat\PhanMemBanHoaChat\PhanMemBanHoaChat\obj\Debug\PhanMemBanHoaChat.TaiKhoan.FrmTaoTaiKhoan.resources
+D:\QuanTrong\HK1_Nam4\Setup_PhanMemMuaBanHoaChat\PhanMemBanHoaChat\PhanMemBanHoaChat\obj\Debug\PhanMemBanHoaChat.XuatKho.FrmDSPhieuXuatKho.resources
+D:\QuanTrong\HK1_Nam4\Setup_PhanMemMuaBanHoaChat\PhanMemBanHoaChat\PhanMemBanHoaChat\obj\Debug\PhanMemBanHoaChat.XuatKho.FrmTaoPhieuXuatKho.resources
+D:\QuanTrong\HK1_Nam4\Setup_PhanMemMuaBanHoaChat\PhanMemBanHoaChat\PhanMemBanHoaChat\obj\Debug\PhanMemBanHoaChat.csproj.GenerateResource.cache
+D:\QuanTrong\HK1_Nam4\Setup_PhanMemMuaBanHoaChat\PhanMemBanHoaChat\PhanMemBanHoaChat\obj\Debug\PhanMemBanHoaChat.exe.licenses
+D:\QuanTrong\HK1_Nam4\Setup_PhanMemMuaBanHoaChat\PhanMemBanHoaChat\PhanMemBanHoaChat\obj\Debug\PhanMemBanHoaChat.csproj.CoreCompileInputs.cache
+D:\QuanTrong\HK1_Nam4\Setup_PhanMemMuaBanHoaChat\PhanMemBanHoaChat\PhanMemBanHoaChat\obj\Debug\PhanMemBanHoaChat.exe
+D:\QuanTrong\HK1_Nam4\Setup_PhanMemMuaBanHoaChat\PhanMemBanHoaChat\PhanMemBanHoaChat\obj\Debug\PhanMemBanHoaChat.pdb
+D:\QuanTrong\HK1_Nam4\Setup_PhanMemMuaBanHoaChat\PhanMemBanHoaChat\PhanMemBanHoaChat\bin\Debug\PhanMemBanHoaChat.exe.config
+D:\QuanTrong\HK1_Nam4\Setup_PhanMemMuaBanHoaChat\PhanMemBanHoaChat\PhanMemBanHoaChat\bin\Debug\PhanMemBanHoaChat.exe
+D:\QuanTrong\HK1_Nam4\Setup_PhanMemMuaBanHoaChat\PhanMemBanHoaChat\PhanMemBanHoaChat\bin\Debug\PhanMemBanHoaChat.pdb
+D:\QuanTrong\HK1_Nam4\Setup_PhanMemMuaBanHoaChat\PhanMemBanHoaChat\PhanMemBanHoaChat\bin\Debug\BLL_DAL.dll
+D:\QuanTrong\HK1_Nam4\Setup_PhanMemMuaBanHoaChat\PhanMemBanHoaChat\PhanMemBanHoaChat\bin\Debug\DevExpress.BonusSkins.v21.2.dll
+D:\QuanTrong\HK1_Nam4\Setup_PhanMemMuaBanHoaChat\PhanMemBanHoaChat\PhanMemBanHoaChat\bin\Debug\DevExpress.Data.Desktop.v21.2.dll
+D:\QuanTrong\HK1_Nam4\Setup_PhanMemMuaBanHoaChat\PhanMemBanHoaChat\PhanMemBanHoaChat\bin\Debug\DevExpress.Data.v21.2.dll
+D:\QuanTrong\HK1_Nam4\Setup_PhanMemMuaBanHoaChat\PhanMemBanHoaChat\PhanMemBanHoaChat\bin\Debug\DevExpress.Printing.v21.2.Core.dll
+D:\QuanTrong\HK1_Nam4\Setup_PhanMemMuaBanHoaChat\PhanMemBanHoaChat\PhanMemBanHoaChat\bin\Debug\DevExpress.Sparkline.v21.2.Core.dll
+D:\QuanTrong\HK1_Nam4\Setup_PhanMemMuaBanHoaChat\PhanMemBanHoaChat\PhanMemBanHoaChat\bin\Debug\DevExpress.Utils.v21.2.dll
+D:\QuanTrong\HK1_Nam4\Setup_PhanMemMuaBanHoaChat\PhanMemBanHoaChat\PhanMemBanHoaChat\bin\Debug\DevExpress.XtraBars.v21.2.dll
+D:\QuanTrong\HK1_Nam4\Setup_PhanMemMuaBanHoaChat\PhanMemBanHoaChat\PhanMemBanHoaChat\bin\Debug\DevExpress.XtraEditors.v21.2.dll
+D:\QuanTrong\HK1_Nam4\Setup_PhanMemMuaBanHoaChat\PhanMemBanHoaChat\PhanMemBanHoaChat\bin\Debug\Syncfusion.DocIO.Base.dll
+D:\QuanTrong\HK1_Nam4\Setup_PhanMemMuaBanHoaChat\PhanMemBanHoaChat\PhanMemBanHoaChat\bin\Debug\Syncfusion.XlsIO.Base.dll
+D:\QuanTrong\HK1_Nam4\Setup_PhanMemMuaBanHoaChat\PhanMemBanHoaChat\PhanMemBanHoaChat\bin\Debug\DevExpress.Pdf.v21.2.Core.dll
+D:\QuanTrong\HK1_Nam4\Setup_PhanMemMuaBanHoaChat\PhanMemBanHoaChat\PhanMemBanHoaChat\bin\Debug\DevExpress.Pdf.v21.2.Drawing.dll
+D:\QuanTrong\HK1_Nam4\Setup_PhanMemMuaBanHoaChat\PhanMemBanHoaChat\PhanMemBanHoaChat\bin\Debug\Syncfusion.Compression.Base.dll
+D:\QuanTrong\HK1_Nam4\Setup_PhanMemMuaBanHoaChat\PhanMemBanHoaChat\PhanMemBanHoaChat\bin\Debug\Syncfusion.OfficeChart.Base.dll
+D:\QuanTrong\HK1_Nam4\Setup_PhanMemMuaBanHoaChat\PhanMemBanHoaChat\PhanMemBanHoaChat\bin\Debug\BLL_DAL.pdb
+D:\QuanTrong\HK1_Nam4\Setup_PhanMemMuaBanHoaChat\PhanMemBanHoaChat\PhanMemBanHoaChat\bin\Debug\BLL_DAL.dll.config
+D:\QuanTrong\HK1_Nam4\Setup_PhanMemMuaBanHoaChat\PhanMemBanHoaChat\PhanMemBanHoaChat\bin\Debug\DevExpress.Data.Desktop.v21.2.xml
+D:\QuanTrong\HK1_Nam4\Setup_PhanMemMuaBanHoaChat\PhanMemBanHoaChat\PhanMemBanHoaChat\bin\Debug\DevExpress.Data.v21.2.xml
+D:\QuanTrong\HK1_Nam4\Setup_PhanMemMuaBanHoaChat\PhanMemBanHoaChat\PhanMemBanHoaChat\bin\Debug\DevExpress.Printing.v21.2.Core.xml
+D:\QuanTrong\HK1_Nam4\Setup_PhanMemMuaBanHoaChat\PhanMemBanHoaChat\PhanMemBanHoaChat\bin\Debug\DevExpress.Utils.v21.2.xml
+D:\QuanTrong\HK1_Nam4\Setup_PhanMemMuaBanHoaChat\PhanMemBanHoaChat\PhanMemBanHoaChat\bin\Debug\DevExpress.XtraBars.v21.2.xml
+D:\QuanTrong\HK1_Nam4\Setup_PhanMemMuaBanHoaChat\PhanMemBanHoaChat\PhanMemBanHoaChat\bin\Debug\DevExpress.Sparkline.v21.2.Core.xml
+D:\QuanTrong\HK1_Nam4\Setup_PhanMemMuaBanHoaChat\PhanMemBanHoaChat\PhanMemBanHoaChat\bin\Debug\DevExpress.XtraEditors.v21.2.xml
+D:\QuanTrong\HK1_Nam4\Setup_PhanMemMuaBanHoaChat\PhanMemBanHoaChat\PhanMemBanHoaChat\bin\Debug\Syncfusion.DocIO.Base.xml
+D:\QuanTrong\HK1_Nam4\Setup_PhanMemMuaBanHoaChat\PhanMemBanHoaChat\PhanMemBanHoaChat\bin\Debug\Syncfusion.XlsIO.Base.xml
+D:\QuanTrong\HK1_Nam4\Setup_PhanMemMuaBanHoaChat\PhanMemBanHoaChat\PhanMemBanHoaChat\bin\Debug\DevExpress.Pdf.v21.2.Core.xml
+D:\QuanTrong\HK1_Nam4\Setup_PhanMemMuaBanHoaChat\PhanMemBanHoaChat\PhanMemBanHoaChat\bin\Debug\DevExpress.Pdf.v21.2.Drawing.xml
+D:\QuanTrong\HK1_Nam4\Setup_PhanMemMuaBanHoaChat\PhanMemBanHoaChat\PhanMemBanHoaChat\bin\Debug\Syncfusion.Compression.Base.xml
+D:\QuanTrong\HK1_Nam4\Setup_PhanMemMuaBanHoaChat\PhanMemBanHoaChat\PhanMemBanHoaChat\bin\Debug\Syncfusion.OfficeChart.Base.xml
+D:\QuanTrong\HK1_Nam4\Setup_PhanMemMuaBanHoaChat\PhanMemBanHoaChat\PhanMemBanHoaChat\bin\Debug\de\DevExpress.Data.v21.2.resources.dll
+D:\QuanTrong\HK1_Nam4\Setup_PhanMemMuaBanHoaChat\PhanMemBanHoaChat\PhanMemBanHoaChat\bin\Debug\es\DevExpress.Data.v21.2.resources.dll
+D:\QuanTrong\HK1_Nam4\Setup_PhanMemMuaBanHoaChat\PhanMemBanHoaChat\PhanMemBanHoaChat\bin\Debug\ja\DevExpress.Data.v21.2.resources.dll
+D:\QuanTrong\HK1_Nam4\Setup_PhanMemMuaBanHoaChat\PhanMemBanHoaChat\PhanMemBanHoaChat\bin\Debug\ru\DevExpress.Data.v21.2.resources.dll
+D:\QuanTrong\HK1_Nam4\Setup_PhanMemMuaBanHoaChat\PhanMemBanHoaChat\PhanMemBanHoaChat\bin\Debug\de\DevExpress.Printing.v21.2.Core.resources.dll
+D:\QuanTrong\HK1_Nam4\Setup_PhanMemMuaBanHoaChat\PhanMemBanHoaChat\PhanMemBanHoaChat\bin\Debug\es\DevExpress.Printing.v21.2.Core.resources.dll
+D:\QuanTrong\HK1_Nam4\Setup_PhanMemMuaBanHoaChat\PhanMemBanHoaChat\PhanMemBanHoaChat\bin\Debug\ja\DevExpress.Printing.v21.2.Core.resources.dll
+D:\QuanTrong\HK1_Nam4\Setup_PhanMemMuaBanHoaChat\PhanMemBanHoaChat\PhanMemBanHoaChat\bin\Debug\ru\DevExpress.Printing.v21.2.Core.resources.dll
+D:\QuanTrong\HK1_Nam4\Setup_PhanMemMuaBanHoaChat\PhanMemBanHoaChat\PhanMemBanHoaChat\bin\Debug\de\DevExpress.Utils.v21.2.resources.dll
+D:\QuanTrong\HK1_Nam4\Setup_PhanMemMuaBanHoaChat\PhanMemBanHoaChat\PhanMemBanHoaChat\bin\Debug\es\DevExpress.Utils.v21.2.resources.dll
+D:\QuanTrong\HK1_Nam4\Setup_PhanMemMuaBanHoaChat\PhanMemBanHoaChat\PhanMemBanHoaChat\bin\Debug\ja\DevExpress.Utils.v21.2.resources.dll
+D:\QuanTrong\HK1_Nam4\Setup_PhanMemMuaBanHoaChat\PhanMemBanHoaChat\PhanMemBanHoaChat\bin\Debug\ru\DevExpress.Utils.v21.2.resources.dll
+D:\QuanTrong\HK1_Nam4\Setup_PhanMemMuaBanHoaChat\PhanMemBanHoaChat\PhanMemBanHoaChat\bin\Debug\de\DevExpress.XtraBars.v21.2.resources.dll
+D:\QuanTrong\HK1_Nam4\Setup_PhanMemMuaBanHoaChat\PhanMemBanHoaChat\PhanMemBanHoaChat\bin\Debug\es\DevExpress.XtraBars.v21.2.resources.dll
+D:\QuanTrong\HK1_Nam4\Setup_PhanMemMuaBanHoaChat\PhanMemBanHoaChat\PhanMemBanHoaChat\bin\Debug\ja\DevExpress.XtraBars.v21.2.resources.dll
+D:\QuanTrong\HK1_Nam4\Setup_PhanMemMuaBanHoaChat\PhanMemBanHoaChat\PhanMemBanHoaChat\bin\Debug\ru\DevExpress.XtraBars.v21.2.resources.dll
+D:\QuanTrong\HK1_Nam4\Setup_PhanMemMuaBanHoaChat\PhanMemBanHoaChat\PhanMemBanHoaChat\bin\Debug\de\DevExpress.Sparkline.v21.2.Core.resources.dll
+D:\QuanTrong\HK1_Nam4\Setup_PhanMemMuaBanHoaChat\PhanMemBanHoaChat\PhanMemBanHoaChat\bin\Debug\es\DevExpress.Sparkline.v21.2.Core.resources.dll
+D:\QuanTrong\HK1_Nam4\Setup_PhanMemMuaBanHoaChat\PhanMemBanHoaChat\PhanMemBanHoaChat\bin\Debug\ja\DevExpress.Sparkline.v21.2.Core.resources.dll
+D:\QuanTrong\HK1_Nam4\Setup_PhanMemMuaBanHoaChat\PhanMemBanHoaChat\PhanMemBanHoaChat\bin\Debug\ru\DevExpress.Sparkline.v21.2.Core.resources.dll
+D:\QuanTrong\HK1_Nam4\Setup_PhanMemMuaBanHoaChat\PhanMemBanHoaChat\PhanMemBanHoaChat\bin\Debug\de\DevExpress.XtraEditors.v21.2.resources.dll
+D:\QuanTrong\HK1_Nam4\Setup_PhanMemMuaBanHoaChat\PhanMemBanHoaChat\PhanMemBanHoaChat\bin\Debug\es\DevExpress.XtraEditors.v21.2.resources.dll
+D:\QuanTrong\HK1_Nam4\Setup_PhanMemMuaBanHoaChat\PhanMemBanHoaChat\PhanMemBanHoaChat\bin\Debug\ja\DevExpress.XtraEditors.v21.2.resources.dll
+D:\QuanTrong\HK1_Nam4\Setup_PhanMemMuaBanHoaChat\PhanMemBanHoaChat\PhanMemBanHoaChat\bin\Debug\ru\DevExpress.XtraEditors.v21.2.resources.dll
+D:\QuanTrong\HK1_Nam4\Setup_PhanMemMuaBanHoaChat\PhanMemBanHoaChat\PhanMemBanHoaChat\bin\Debug\de\DevExpress.Pdf.v21.2.Core.resources.dll
+D:\QuanTrong\HK1_Nam4\Setup_PhanMemMuaBanHoaChat\PhanMemBanHoaChat\PhanMemBanHoaChat\bin\Debug\es\DevExpress.Pdf.v21.2.Core.resources.dll
+D:\QuanTrong\HK1_Nam4\Setup_PhanMemMuaBanHoaChat\PhanMemBanHoaChat\PhanMemBanHoaChat\bin\Debug\ja\DevExpress.Pdf.v21.2.Core.resources.dll
+D:\QuanTrong\HK1_Nam4\Setup_PhanMemMuaBanHoaChat\PhanMemBanHoaChat\PhanMemBanHoaChat\bin\Debug\ru\DevExpress.Pdf.v21.2.Core.resources.dll
+D:\QuanTrong\HK1_Nam4\Setup_PhanMemMuaBanHoaChat\PhanMemBanHoaChat\PhanMemBanHoaChat\obj\Debug\PhanMemBanHoaChat.csproj.CopyComplete

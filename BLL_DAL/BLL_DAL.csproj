@@ -1,0 +1,173 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{012EA269-413D-4C19-8EAC-B5892A71562D}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>BLL_DAL</RootNamespace>
+    <AssemblyName>BLL_DAL</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.Office.Interop.Excel, Version=15.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Office.Interop.Excel.15.0.4795.1001\lib\net20\Microsoft.Office.Interop.Excel.dll</HintPath>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="Microsoft.Office.Interop.Word, Version=15.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Office.Interop.Word.15.0.4797.1004\lib\net20\Microsoft.Office.Interop.Word.dll</HintPath>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="Syncfusion.Compression.Base">
+      <HintPath>..\..\..\ThuVien\Syncfusion.Compression.Base.dll</HintPath>
+    </Reference>
+    <Reference Include="Syncfusion.DocIO.Base">
+      <HintPath>..\..\..\ThuVien\Syncfusion.DocIO.Base.dll</HintPath>
+    </Reference>
+    <Reference Include="Syncfusion.OfficeChart.Base">
+      <HintPath>..\..\..\ThuVien\Syncfusion.OfficeChart.Base.dll</HintPath>
+    </Reference>
+    <Reference Include="Syncfusion.XlsIO.Base">
+      <HintPath>..\..\..\ThuVien\Syncfusion.XlsIO.Base.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.Linq" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BD_BaoGia.cs" />
+    <Compile Include="BD_CongNo.cs" />
+    <Compile Include="BD_CTHoaDon.cs" />
+    <Compile Include="BD_DangNhap.cs" />
+    <Compile Include="BD_DoanhThuSP.cs" />
+    <Compile Include="BD_DonDatHang.cs" />
+    <Compile Include="BD_HangHoa.cs" />
+    <Compile Include="BD_HoaDon.cs" />
+    <Compile Include="BD_KhachHang.cs" />
+    <Compile Include="BD_NhaCC.cs" />
+    <Compile Include="BD_NhanVien.cs" />
+    <Compile Include="BD_NSX.cs" />
+    <Compile Include="BD_PhanQuyen.cs" />
+    <Compile Include="BD_PhieuNhanHang.cs" />
+    <Compile Include="BD_PhieuNhap.cs" />
+    <Compile Include="BD_PhieuNhapKho.cs" />
+    <Compile Include="BD_PhieuThanhToan.cs" />
+    <Compile Include="BD_PhieuXuatHang.cs" />
+    <Compile Include="BD_PhieuXuatKho.cs" />
+    <Compile Include="BD_Quyen.cs" />
+    <Compile Include="BD_TaoTaiKhoan.cs" />
+    <Compile Include="BD_ThongKe.cs" />
+    <Compile Include="BG.cs" />
+    <Compile Include="BGCTiet.cs" />
+    <Compile Include="CONGN.cs" />
+    <Compile Include="Constants.cs" />
+    <Compile Include="CTBG.cs" />
+    <Compile Include="CTBGCTiet.cs" />
+    <Compile Include="CTDDH.cs" />
+    <Compile Include="CTDDHCTiet.cs" />
+    <Compile Include="CTHD.cs" />
+    <Compile Include="CTHDCTiet.cs" />
+    <Compile Include="CTPN.cs" />
+    <Compile Include="CTPNCTiet.cs" />
+    <Compile Include="CTPNH.cs" />
+    <Compile Include="CTPNHCTiet.cs" />
+    <Compile Include="CTPTT.cs" />
+    <Compile Include="CTPTTCTiet.cs" />
+    <Compile Include="CTPX.cs" />
+    <Compile Include="CTPXCTiet.cs" />
+    <Compile Include="CTPXH.cs" />
+    <Compile Include="CTPXHCTiet.cs" />
+    <Compile Include="DDH.cs" />
+    <Compile Include="DDHCTiet.cs" />
+    <Compile Include="DoanhThuSP.cs" />
+    <Compile Include="ExcelExport.cs" />
+    <Compile Include="FileCommon.cs" />
+    <Compile Include="Global.cs" />
+    <Compile Include="HangHoa.cs" />
+    <Compile Include="HangTonAmException.cs" />
+    <Compile Include="HD.cs" />
+    <Compile Include="HDCTiet.cs" />
+    <Compile Include="KH.cs" />
+    <Compile Include="KhoSL.cs" />
+    <Compile Include="NCC.cs" />
+    <Compile Include="NSX.cs" />
+    <Compile Include="NV.cs" />
+    <Compile Include="PN.cs" />
+    <Compile Include="PNCTiet.cs" />
+    <Compile Include="PNH.cs" />
+    <Compile Include="PNHCTiet.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+      <DependentUpon>Settings.settings</DependentUpon>
+    </Compile>
+    <Compile Include="PTT.cs" />
+    <Compile Include="PTTCTiet.cs" />
+    <Compile Include="PX.cs" />
+    <Compile Include="PXCTiet.cs" />
+    <Compile Include="PXH.cs" />
+    <Compile Include="PXHCTiet.cs" />
+    <Compile Include="QLMuaBanHoaChat.cs">
+      <DependentUpon>QLMuaBanHoaChat.dbml</DependentUpon>
+    </Compile>
+    <Compile Include="QLMuaBanHoaChat.designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>QLMuaBanHoaChat.dbml</DependentUpon>
+    </Compile>
+    <Compile Include="QuyenTaiKhoan.cs" />
+    <Compile Include="TenTaiKhoan.cs" />
+    <Compile Include="THONGK.cs" />
+    <Compile Include="WordExport.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="QLMuaBanHoaChat.dbml">
+      <Generator>MSLinqToSQLGenerator</Generator>
+      <LastGenOutput>QLMuaBanHoaChat.designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="QLMuaBanHoaChat.dbml.layout">
+      <DependentUpon>QLMuaBanHoaChat.dbml</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{3259AA49-8AA1-44D3-9025-A0B520596A8C}" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
